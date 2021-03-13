@@ -1,0 +1,13 @@
+<import>
+    <import-source>tx_comments_comments</import-source>
+    <import-destination>tt_board</import-destination>
+    <import-destination-extension>tt_board</import-destination-extension>
+    <author>firstname lastname</author>
+    <email>email</email>
+    <city>location</city>
+    <subject>content:1-64</subject>
+    <message>content</message>
+    <cr_ip>remote_addr</cr_ip>
+    <hidden>!approved || hidden</hidden>
+</import>
+

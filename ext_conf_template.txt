@@ -1,0 +1,5 @@
+  # cat=basic/enable; type=string; label=double post fields: Fields of tt_board which are used to do the double post check. By default these fields are subject, message, author.
+doublePostCheck.fields = subject,message,author
+  # cat=basic/enable; type=string; label=spam words: Spam words which will be detected. Any comments containg any of these words will be skipped and not be imported.
+spam.words = Sex ,http
+
