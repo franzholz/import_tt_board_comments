@@ -32,7 +32,6 @@
     }
   },
   "replace": {
-    "jambagecom/import-tt-board-comments": "self.version",
     "typo3-ter/import-tt-board-comments": "self.version"
   },
   "extra": {
